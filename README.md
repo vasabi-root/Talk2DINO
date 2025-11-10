@@ -4,14 +4,12 @@ This is the repository that contains source code for the [website](https://loreb
 
 If you find this work useful, please cite:
 ```
-@misc{barsellotti2024talkingdinobridgingselfsupervised,
-    title={Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation}, 
-    author={Luca Barsellotti and Lorenzo Bianchi and Nicola Messina and Fabio Carrara and Marcella Cornia and Lorenzo Baraldi and Fabrizio Falchi and Rita Cucchiara},
-    year={2024},
-    eprint={2411.19331},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2411.19331}, 
+@inproceedings{barsellotti2025talking,
+  title={Talking to dino: Bridging self-supervised vision backbones with language for open-vocabulary segmentation},
+  author={Barsellotti, Luca and Bianchi, Lorenzo and Messina, Nicola and Carrara, Fabio and Cornia, Marcella and Baraldi, Lorenzo and Falchi, Fabrizio and Cucchiara, Rita},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={22025--22035},
+  year={2025}
 }
 ```
 
